@@ -11,9 +11,11 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <p>Hello！おみつと申します。IT企業に勤める駆け出しエンジニアです</p>
       <p>
-        お花とネイルと夕暮れ時の散歩が好き!
+        Hello！おみつと申します。IT企業に勤める駆け出しエンジニア。元Webでざいな〜。
+      </p>
+      <p>
+        お花とセルフネイルと夕暮れ時の散歩が好き!アナログなものづくりとデジタルなものづくり両方好き！
       </p>
       <section className={utilStyles.headingMd}></section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
